@@ -1,0 +1,26 @@
+{
+    "Logistic Regression": {
+        "Accuracy": 0.9874,
+        "Precision": 0.9826,
+        "Recall": 0.9911,
+        "F1 Score": 0.9869
+    },
+    "KNN": {
+        "Accuracy": 0.9724,
+        "Precision": 0.9574,
+        "Recall": 0.986,
+        "F1 Score": 0.9715
+    },
+    "Random Forest": {
+        "Accuracy": 0.9979,
+        "Precision": 0.9967,
+        "Recall": 0.9988,
+        "F1 Score": 0.9978
+    },
+    "Neural Network": {
+        "Accuracy": 0.99,
+        "Precision": 0.9906,
+        "Recall": 0.9883,
+        "F1 Score": 0.9895
+    }
+}
